@@ -400,8 +400,8 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="DIMONF"
-name ="DIMONF"
+code ="DIMOND"
+name ="DIMOND"
 issuer = "GBQHZ6NWYFDFTH4FYNS5QTGVRTPI2XNM3XH7T4KXGXZBIBWLMTW7TADH"
 is_asset_anchored=false
 display_decimals = 7
